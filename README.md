@@ -1,7 +1,7 @@
 # Olá! Eu sou Sillas Sodré 👋
 
 ### 👨‍💻 Quem sou eu
-Atuo como **Monitor de Transporte Escolar** na empresa Trans Sodré. Sou focado em garantir a segurança, pontualidade e o bem-estar dos alunos durante os trajetos, mantendo uma comunicação eficiente entre pais, motoristas e instituições.
+Atuava como **Monitor de Transporte Escolar** na empresa Trans Sodré. Sou focado em garantir a segurança, pontualidade e o bem-estar dos alunos durante os trajetos, mantendo uma comunicação eficiente entre pais, motoristas e instituições.
 
 ### 🛠️ Áreas de Atuação e Habilidades
 * **Gestão e Segurança:** Monitoramento de embarque/desembarque e segurança viária infantil
