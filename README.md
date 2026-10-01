@@ -1,17 +1,24 @@
 # Olá! Eu sou Sillas Sodré 👋
 
 ### 👨‍💻 Sobre mim
-Profissional dedicado com experiência como **Monitor de Transporte Escolar** na empresa **Trans Sodré**[cite: 7]. Sou totalmente focado em garantir a segurança, a pontualidade e o bem-estar dos alunos durante todos os trajetos, mantendo um canal de comunicação claro, empático e eficiente entre pais, motoristas e instituições de ensino[cite: 7].
+Profissional dedicado e em transição/evolução para a área de tecnologia, atualmente a cursar **Análise e Desenvolvimento de Sistemas**. Possuo sólida experiência profissional prévia como **Monitor de Transporte Escolar** na empresa **Trans Sodré**, onde desenvolvi forte senso de responsabilidade, foco absoluto na segurança, pontualidade e bem-estar dos alunos, além de gerir uma comunicação eficiente e empática entre pais, motoristas e instituições[cite: 7]. 
 
-Atualmente, também estou em constante evolução e aprendizado no universo da tecnologia e desenvolvimento de software, explorando novas ferramentas e linguagens.
+Agora, aplico essa mesma organização, disciplina e foco analítico no desenvolvimento de software e na resolução de problemas tecnológicos.
+
+---
+
+### 🎓 Educação
+* **Graduação em Análise e Desenvolvimento de Sistemas** *(Em Andamento)*
+  * Foco em engenharia de software, lógica de programação, banco de dados e desenvolvimento web/aplicações.
 
 ---
 
 ### 🛠️ Áreas de Atuação e Competências
 
-* **Gestão e Segurança:** Monitoramento rigoroso de embarque/desembarque, controle de fluxo e segurança viária infantil[cite: 7].
-* **Atendimento e Comunicação:** Interação direta, clara e profissional com pais, responsáveis e toda a equipe escolar[cite: 7].
-* **Organização e Logística:** Planejamento e acompanhamento de rotas de transporte e logística escolar[cite: 7].
+* **Tecnologia e Desenvolvimento:** Lógica de programação, versionamento de código e construção de projetos práticos.
+* **Gestão e Segurança:** Monitoramento rigoroso de processos, embarque/desembarque e segurança viária infantil[cite: 7].
+* **Atendimento e Comunicação:** Interação direta, transparente e profissional com clientes, equipas e parceiros[cite: 7].
+* **Organização e Logística:** Planejamento estruturado de rotas de transporte e gestão logística[cite: 7].
 
 ---
 
