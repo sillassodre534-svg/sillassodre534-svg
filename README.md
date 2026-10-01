@@ -1,7 +1,7 @@
 # Olá! Eu sou Sillas Sodré 👋
 
 ### 👨‍💻 Sobre mim
-Profissional dedicado e em transição/evolução para a área de tecnologia, atualmente a cursar **Análise e Desenvolvimento de Sistemas**. Possuo sólida experiência profissional prévia como **Monitor de Transporte Escolar** na empresa **Trans Sodré**, onde desenvolvi forte senso de responsabilidade, foco absoluto na segurança, pontualidade e bem-estar dos alunos, além de gerir uma comunicação eficiente e empática entre pais, motoristas e instituições[cite: 7]. 
+Profissional dedicado e em transição/evolução para a área de tecnologia, atualmente a cursar **Análise e Desenvolvimento de Sistemas**. Possuo sólida experiência profissional prévia como **Monitor de Transporte Escolar** na empresa **Trans Sodré**, onde desenvolvi forte senso de responsabilidade, foco absoluto na segurança, pontualidade e bem-estar dos alunos, além de gerir uma comunicação eficiente e empática entre pais, motoristas e instituições. 
 
 Agora, aplico essa mesma organização, disciplina e foco analítico no desenvolvimento de software e na resolução de problemas tecnológicos.
 
